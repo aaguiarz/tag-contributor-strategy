@@ -242,6 +242,28 @@
         "language": "Go"
     },
     {
+        "name": "OpenFGA",
+        "path": "Security & Compliance",
+        "description": "A flexible authorization/permission system inspired by Google Zanzibar",
+        "homepage_url": "https://www.openfga.dev/",
+        "project": "sandbox",
+        "repo_url": "https://github.com/openfga/openfga",
+        "logo": "logos/openfga.svg",
+        "twitter": "https://twitter.com/openfga",
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": null,
+        "accepted": "2022-09-13",
+        "dev_stats_url": "https://openfga.devstats.cncf.io/",
+        "artwork_url": "https://github.com/openfga/community/tree/main/brand-assets",
+        "stack_overflow_url": "null",
+        "blog_url": "null",
+        "mailing_list_url": null,
+        "slack_url": "https://discord.gg/8naAwJfWN6",
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Go"
+    },    
+    {
         "name": "Prometheus",
         "path": "Monitoring",
         "description": "The Prometheus monitoring system and time series database.",
